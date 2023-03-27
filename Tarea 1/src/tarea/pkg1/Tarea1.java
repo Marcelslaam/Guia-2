@@ -26,6 +26,7 @@ int resultado;
 
 System.out.println("introduce el primer numero");
 numero1 = leer.nextInt();
+        System.out.println("NICO");
 
 System.out.println("Introduce el segundo numero");
 numero2 = leer.nextInt();
